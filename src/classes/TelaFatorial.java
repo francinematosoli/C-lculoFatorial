@@ -130,7 +130,7 @@ public class TelaFatorial extends javax.swing.JFrame {
           4x3x2x1= 24!
          Dai eu coloquei pra imprimir o cont dentro do laço
          lblCalc.setText((Integer.toString(cont)+"X"));
-         só que dá errado.
+         só que dá errado./*
          
         
      
